@@ -7,7 +7,7 @@
 ## 🎓 About Me
 - 2nd Year **BSc ICT Student** at Mzuzu University  
 - Passionate about **web & mobile Development, cloud computing, System Design and Cybersecurity**  
-- Experienced with **MySQL** and **PostgreSQL**  
+- Experienced with **MySQL**
 - Open to collaborations on **Open Source Projects** and **personal projects**
 
 ---
