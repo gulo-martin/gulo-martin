@@ -18,7 +18,7 @@
 
 * ⚙️ Backend: Laravel  · RESTful APIs
 
-* 🗄️ Databases: MySQL · PostgreSQL  
+* 🗄️ Databases: MySQL  
 
 * 🛠️ Tools & Platforms: Git & GitHub · Postman  · Linux 
 
