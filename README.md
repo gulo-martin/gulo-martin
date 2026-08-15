@@ -43,15 +43,6 @@ Welcome to my GitHub! I am a software engineer and network specialist based in B
 
 ---
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="Martin's GitHub Stats" />
-</div>
-
----
-
 ## 🌐 Connect with Me
 - 📧 **Email:** [martingulo28@gmail.com](mailto:martingulo28@gmail.com)
 - 📞 **Phone:** +265 981 945 445
