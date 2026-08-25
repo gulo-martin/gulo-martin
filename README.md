@@ -47,7 +47,7 @@ Welcome to my GitHub! I am a software engineer and network specialist based in B
 - 📧 **Email:** [martingulo28@gmail.com](mailto:martingulo28@gmail.com)
 - 📞 **Phone:** +265 981 945 445
 - 💼 **LinkedIn:** [linkedin.com/in/martin-gulo](www.LinkedIn.com/in/martin-gulo)
-- 🌍 **Portfolio:** [bwino.dev](https://YOUR-PORTFOLIO-URL.com) *(Update when you deploy your new site!)*
+- 🌍 **Portfolio:** [bwino.dev](https://bwinotech.vercel.app) 
 
 ---
 <div align="left">
