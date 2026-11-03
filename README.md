@@ -8,7 +8,7 @@ Welcome to my GitHub! I am currently on a **365-day journey** to master cybersec
 ### 🚀 What I'm Currently Working On
 - 🔭 **Building:** My personal cybersecurity home lab (DVWA, Metasploitable).
 - 🌱 **Learning:** Web Application Security (OWASP Top 10), Bash Scripting, and Privilege Escalation.
-- ✍️ **Documenting:** Sharing my daily progress on [LinkedIn](#) *(Add your LinkedIn link here)*.
+- ✍️ **Documenting:** Sharing my daily progress on [LinkedIn](https://www.LinkedIn.com/in/martin-gulo).
 - 🎯 **Goal:** Transition into a professional Cybersecurity / Penetration Testing role.
 
 ---
@@ -50,7 +50,7 @@ Here are the tools and technologies I am learning and using:
 
 ### 📫 How to Reach Me
 Let's connect and learn together!
-*   **LinkedIn:** [Martin Gulo](链接到你的LinkedIn链接)
-*   **Email:** your.email@example.com *(Optional)*
+*   **LinkedIn:** [Martin Gulo](https://www.LinkedIn.com/in/martin-gulo)
+*   **Email:** martingulo28@gmail.com 
 
 *"Consistency is more important than perfection. Just show up every day."* 🚀
