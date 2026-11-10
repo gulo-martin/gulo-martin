@@ -43,8 +43,8 @@ Here are the tools and technologies I am learning and using:
 ### 📊 My GitHub Stats
 *(Note: These badges will automatically update as you upload more code!)*
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gulo-martin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulo-martin&layout=compact&theme=radical)
 
 ---
 
